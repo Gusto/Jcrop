@@ -1,5 +1,5 @@
 {
-  "name": "Jcrop",
+  "name": "@gusto/Jcrop",
   "version": "2.0.4",
   "devDependencies": {
     "grunt": "^0.4.5",
